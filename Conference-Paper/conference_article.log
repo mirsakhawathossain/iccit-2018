@@ -1,0 +1,905 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2018.2.8)  23 OCT 2018 14:33
+entering extended mode
+**./conference_article.tex
+(conference_article.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
+(IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+(D:\Latex_Portable\texmfs\install\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(D:\Latex_Portable\texmfs\install\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(D:\Latex_Portable\texmfs\install\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(D:\Latex_Portable\texmfs\install\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\Latex_Portable\texmfs\install\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen126
+))
+(D:\Latex_Portable\texmfs\install\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen127
+)
+(D:\Latex_Portable\texmfs\install\tex\latex\amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen128
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks16
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks17
+\eqnshift@=\dimen129
+\alignsep@=\dimen130
+\tagshift@=\dimen131
+\tagwidth@=\dimen132
+\totwidth@=\dimen133
+\lineht@=\dimen134
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(D:\Latex_Portable\texmfs\install\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\Latex_Portable\texmfs\install\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\Latex_Portable\texmfs\install\tex\latex\algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(D:\Latex_Portable\texmfs\install\tex\latex\base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(D:\Latex_Portable\texmfs\install\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\c@ALC@unique=\count106
+\c@ALC@line=\count107
+\c@ALC@rem=\count108
+\c@ALC@depth=\count109
+\ALC@tlm=\skip47
+\algorithmicindent=\skip48
+)
+(D:\Latex_Portable\texmfs\install\tex\latex\graphics\graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\Latex_Portable\texmfs\install\tex\latex\graphics\graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\Latex_Portable\texmfs\install\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\Latex_Portable\texmfs\install\tex\latex\graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(D:\Latex_Portable\texmfs\install\tex\latex\graphics-def\pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(D:\Latex_Portable\texmfs\install\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(D:\Latex_Portable\texmfs\install\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count110
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(D:\Latex_Portable\texmfs\install\tex\latex\base\textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(D:\Latex_Portable\texmfs\install\tex\latex\base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(D:\Latex_Portable\texmfs\install\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(D:\Latex_Portable\texmfs\install\tex\latex\graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(D:\Latex_Portable\texmfs\install\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(D:\Latex_Portable\texmfs\install\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen137
+\captionmargin@=\dimen138
+\captionwidth=\dimen139
+\caption@tempdima=\dimen140
+\caption@indent=\dimen141
+\caption@parindent=\dimen142
+\caption@hangindent=\dimen143
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+\c@KVtest=\count111
+\sf@farskip=\skip49
+\sf@captopadj=\dimen144
+\sf@capskip=\skip50
+\sf@nearskip=\skip51
+\c@subfigure=\count112
+\c@subfigure@save=\count113
+\c@lofdepth=\count114
+\c@subtable=\count115
+\c@subtable@save=\count116
+\c@lotdepth=\count117
+\sf@top=\skip52
+\sf@bottom=\skip53
+)
+(D:\Latex_Portable\texmfs\install\tex\latex\SIstyle\sistyle.sty
+Package: sistyle 2008/07/16 v2.3a SI units and numbers (DNJ Els)
+\ttoks@A=\toks21
+\ttoks@B=\toks22
+)
+(D:\Latex_Portable\texmfs\install\tex\latex\romannum\romannum.sty
+Package: romannum 2009/09/03 v1.0b roman numerals
+
+(D:\Latex_Portable\texmfs\install\tex\latex\stdclsdv\stdclsdv.sty
+Package: stdclsdv 2009/09/04 v1.1a Sectional divisions
+))
+(D:\Latex_Portable\texmfs\install\tex\latex\was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(conference_article.aux
+
+LaTeX Warning: Label `fig_first_case' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig_first_case' multiply defined.
+
+
+LaTeX Warning: Label `fig_second_case' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig_second_case' multiply defined.
+
+
+LaTeX Warning: Label `fig_third_case' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig_third_case' multiply defined.
+
+
+LaTeX Warning: Label `fig_fourth_case' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig_fourth_case' multiply defined.
+
+
+LaTeX Warning: Label `fig_fifth_case' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig_fifth_case' multiply defined.
+
+
+LaTeX Warning: Label `fig_sixth_case' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig_sixth_case' multiply defined.
+
+
+LaTeX Warning: Label `fig_seventh_case' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig_seventh_case' multiply defined.
+
+
+LaTeX Warning: Label `fig_eighth_case' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig_eighth_case' multiply defined.
+
+)
+\openout1 = `conference_article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 23.
+ (D:\Latex_Portable\texmfs\install\tex\latex\base\ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 23.
+
+-- Lines per column: 56 (exact).
+(D:\Latex_Portable\texmfs\install\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count118
+\scratchdimen=\dimen145
+\scratchbox=\box30
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen146
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
+\everyMPtoPDFconversion=\toks24
+) (D:\Latex_Portable\texmfs\install\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(D:\Latex_Portable\texmfs\install\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(D:\Latex_Portable\texmfs\install\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(D:\Latex_Portable\texmfs\install\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(D:\Latex_Portable\texmfs\install\tex\latex\oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(D:\Latex_Portable\texmfs\install\tex\generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(D:\Latex_Portable\texmfs\install\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(D:\Latex_Portable\texmfs\install\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(D:\Latex_Portable\texmfs\install\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+
+(D:\Latex_Portable\texmfs\install\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+
+(D:\Latex_Portable\texmfs\install\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+\symgns@font=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/ptm/m/n --> TS1/ptm/bx/n on input line 23.
+Package gensymb Info: Math companion symbols declared on input line 23.
+LaTeX Info: Redefining \degree on input line 23.
+LaTeX Info: Redefining \celsius on input line 23.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 23.
+LaTeX Info: Redefining \ohm on input line 23.
+Package gensymb Info: Using \textohm for \ohm on input line 23.
+LaTeX Info: Redefining \micro on input line 23.
+Package gensymb Info: Using \textmu for \micro on input line 23.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 43.
+
+(D:\Latex_Portable\texmfs\install\tex\latex\psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 43.
+ [1{D:/Latex_Portable/texmfs/data/pdftex/config/pdftex.map}
+
+
+]
+<block.pdf, id=17, 794.97pt x 614.295pt>
+File: block.pdf Graphic file (type pdf)
+ <use block.pdf>
+Package pdftex.def Info: block.pdf used on input line 116.
+(pdftex.def)             Requested size: 252.94499pt x 195.4536pt.
+
+<hyperfine.pdf, id=18, 572.1375pt x 368.37625pt>
+File: hyperfine.pdf Graphic file (type pdf)
+ <use hyperfine.pdf>
+Package pdftex.def Info: hyperfine.pdf used on input line 156.
+(pdftex.def)             Requested size: 180.67499pt x 116.3314pt.
+ [2 <./block.pdf> <./hyperfine.pdf>] <galgeom.pdf, id=45, 225.84375pt x 229.858
+75pt>
+File: galgeom.pdf Graphic file (type pdf)
+
+<use galgeom.pdf>
+Package pdftex.def Info: galgeom.pdf used on input line 274.
+(pdftex.def)             Requested size: 144.54pt x 147.11609pt.
+ [3 <./galgeom.pdf>] [4]
+Package epstopdf Info: Source file: <map_1.eps>
+(epstopdf)                    date: 2018-02-25 13:47:23
+(epstopdf)                    size: 69010 bytes
+(epstopdf)             Output file: <map_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 12:20:58
+(epstopdf)                    size: 17761 bytes
+(epstopdf)             Command: <epstopdf --outfile=map_1-eps-converted-to.pdf 
+map_1.eps>
+(epstopdf)             \includegraphics on input line 367.
+Package epstopdf Info: Output file is already uptodate.
+
+<map_1-eps-converted-to.pdf, id=96, 296.10625pt x 305.14pt>
+File: map_1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use map_1-eps-converted-to.pdf>
+Package pdftex.def Info: map_1-eps-converted-to.pdf used on input line 367.
+(pdftex.def)             Requested size: 108.405pt x 111.71272pt.
+Package epstopdf Info: Source file: <map_2.eps>
+(epstopdf)                    date: 2018-02-25 13:49:02
+(epstopdf)                    size: 61580 bytes
+(epstopdf)             Output file: <map_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 12:21:00
+(epstopdf)                    size: 15730 bytes
+(epstopdf)             Command: <epstopdf --outfile=map_2-eps-converted-to.pdf 
+map_2.eps>
+(epstopdf)             \includegraphics on input line 370.
+Package epstopdf Info: Output file is already uptodate.
+
+<map_2-eps-converted-to.pdf, id=97, 296.10625pt x 305.14pt>
+File: map_2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use map_2-eps-converted-to.pdf>
+Package pdftex.def Info: map_2-eps-converted-to.pdf used on input line 370.
+(pdftex.def)             Requested size: 108.405pt x 111.71272pt.
+Package epstopdf Info: Source file: <map_3.eps>
+(epstopdf)                    date: 2018-02-25 13:50:06
+(epstopdf)                    size: 55594 bytes
+(epstopdf)             Output file: <map_3-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:01:59
+(epstopdf)                    size: 13674 bytes
+(epstopdf)             Command: <epstopdf --outfile=map_3-eps-converted-to.pdf 
+map_3.eps>
+(epstopdf)             \includegraphics on input line 373.
+Package epstopdf Info: Output file is already uptodate.
+
+<map_3-eps-converted-to.pdf, id=98, 296.10625pt x 305.14pt>
+File: map_3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use map_3-eps-converted-to.pdf>
+Package pdftex.def Info: map_3-eps-converted-to.pdf used on input line 373.
+(pdftex.def)             Requested size: 108.405pt x 111.71272pt.
+Package epstopdf Info: Source file: <map_4.eps>
+(epstopdf)                    date: 2018-02-25 13:51:19
+(epstopdf)                    size: 39415 bytes
+(epstopdf)             Output file: <map_4-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:02:01
+(epstopdf)                    size: 9252 bytes
+(epstopdf)             Command: <epstopdf --outfile=map_4-eps-converted-to.pdf 
+map_4.eps>
+(epstopdf)             \includegraphics on input line 376.
+Package epstopdf Info: Output file is already uptodate.
+
+<map_4-eps-converted-to.pdf, id=99, 296.10625pt x 305.14pt>
+File: map_4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use map_4-eps-converted-to.pdf>
+Package pdftex.def Info: map_4-eps-converted-to.pdf used on input line 376.
+(pdftex.def)             Requested size: 108.405pt x 111.71272pt.
+Package epstopdf Info: Source file: <map_5.eps>
+(epstopdf)                    date: 2018-02-25 13:52:21
+(epstopdf)                    size: 40067 bytes
+(epstopdf)             Output file: <map_5-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:02:03
+(epstopdf)                    size: 9395 bytes
+(epstopdf)             Command: <epstopdf --outfile=map_5-eps-converted-to.pdf 
+map_5.eps>
+(epstopdf)             \includegraphics on input line 379.
+Package epstopdf Info: Output file is already uptodate.
+
+<map_5-eps-converted-to.pdf, id=100, 296.10625pt x 305.14pt>
+File: map_5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use map_5-eps-converted-to.pdf>
+Package pdftex.def Info: map_5-eps-converted-to.pdf used on input line 379.
+(pdftex.def)             Requested size: 108.405pt x 111.71272pt.
+Package epstopdf Info: Source file: <map_6.eps>
+(epstopdf)                    date: 2018-02-25 13:53:26
+(epstopdf)                    size: 35211 bytes
+(epstopdf)             Output file: <map_6-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:02:04
+(epstopdf)                    size: 8101 bytes
+(epstopdf)             Command: <epstopdf --outfile=map_6-eps-converted-to.pdf 
+map_6.eps>
+(epstopdf)             \includegraphics on input line 382.
+Package epstopdf Info: Output file is already uptodate.
+
+<map_6-eps-converted-to.pdf, id=101, 296.10625pt x 305.14pt>
+File: map_6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use map_6-eps-converted-to.pdf>
+Package pdftex.def Info: map_6-eps-converted-to.pdf used on input line 382.
+(pdftex.def)             Requested size: 108.405pt x 111.71272pt.
+Package epstopdf Info: Source file: <map_7.eps>
+(epstopdf)                    date: 2018-02-25 13:54:53
+(epstopdf)                    size: 31329 bytes
+(epstopdf)             Output file: <map_7-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:02:06
+(epstopdf)                    size: 7081 bytes
+(epstopdf)             Command: <epstopdf --outfile=map_7-eps-converted-to.pdf 
+map_7.eps>
+(epstopdf)             \includegraphics on input line 385.
+Package epstopdf Info: Output file is already uptodate.
+
+<map_7-eps-converted-to.pdf, id=102, 296.10625pt x 305.14pt>
+File: map_7-eps-converted-to.pdf Graphic file (type pdf)
+
+<use map_7-eps-converted-to.pdf>
+Package pdftex.def Info: map_7-eps-converted-to.pdf used on input line 385.
+(pdftex.def)             Requested size: 108.405pt x 111.71272pt.
+Package epstopdf Info: Source file: <map_8.eps>
+(epstopdf)                    date: 2018-02-25 13:55:44
+(epstopdf)                    size: 22106 bytes
+(epstopdf)             Output file: <map_8-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:02:07
+(epstopdf)                    size: 4592 bytes
+(epstopdf)             Command: <epstopdf --outfile=map_8-eps-converted-to.pdf 
+map_8.eps>
+(epstopdf)             \includegraphics on input line 388.
+Package epstopdf Info: Output file is already uptodate.
+
+<map_8-eps-converted-to.pdf, id=103, 296.10625pt x 305.14pt>
+File: map_8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use map_8-eps-converted-to.pdf>
+Package pdftex.def Info: map_8-eps-converted-to.pdf used on input line 388.
+(pdftex.def)             Requested size: 108.405pt x 111.71272pt.
+Package epstopdf Info: Source file: <RotationCurve_1.eps>
+(epstopdf)                    date: 2018-02-25 13:47:36
+(epstopdf)                    size: 22211 bytes
+(epstopdf)             Output file: <RotationCurve_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:16:01
+(epstopdf)                    size: 4853 bytes
+(epstopdf)             Command: <epstopdf --outfile=RotationCurve_1-eps-convert
+ed-to.pdf RotationCurve_1.eps>
+(epstopdf)             \includegraphics on input line 399.
+Package epstopdf Info: Output file is already uptodate.
+
+<RotationCurve_1-eps-converted-to.pdf, id=104, 366.36874pt x 305.14pt>
+File: RotationCurve_1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use RotationCurve_1-eps-converted-to.pdf>
+Package pdftex.def Info: RotationCurve_1-eps-converted-to.pdf used on input lin
+e 399.
+(pdftex.def)             Requested size: 108.405pt x 90.28555pt.
+Package epstopdf Info: Source file: <RotationCurve_2.eps>
+(epstopdf)                    date: 2018-02-25 13:49:09
+(epstopdf)                    size: 21869 bytes
+(epstopdf)             Output file: <RotationCurve_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:16:03
+(epstopdf)                    size: 4779 bytes
+(epstopdf)             Command: <epstopdf --outfile=RotationCurve_2-eps-convert
+ed-to.pdf RotationCurve_2.eps>
+(epstopdf)             \includegraphics on input line 402.
+Package epstopdf Info: Output file is already uptodate.
+
+<RotationCurve_2-eps-converted-to.pdf, id=105, 366.36874pt x 305.14pt>
+File: RotationCurve_2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use RotationCurve_2-eps-converted-to.pdf>
+Package pdftex.def Info: RotationCurve_2-eps-converted-to.pdf used on input lin
+e 402.
+(pdftex.def)             Requested size: 108.405pt x 90.28555pt.
+Package epstopdf Info: Source file: <RotationCurve_3.eps>
+(epstopdf)                    date: 2018-02-25 13:50:14
+(epstopdf)                    size: 22563 bytes
+(epstopdf)             Output file: <RotationCurve_3-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:16:04
+(epstopdf)                    size: 4971 bytes
+(epstopdf)             Command: <epstopdf --outfile=RotationCurve_3-eps-convert
+ed-to.pdf RotationCurve_3.eps>
+(epstopdf)             \includegraphics on input line 405.
+Package epstopdf Info: Output file is already uptodate.
+
+<RotationCurve_3-eps-converted-to.pdf, id=106, 366.36874pt x 305.14pt>
+File: RotationCurve_3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use RotationCurve_3-eps-converted-to.pdf>
+Package pdftex.def Info: RotationCurve_3-eps-converted-to.pdf used on input lin
+e 405.
+(pdftex.def)             Requested size: 108.405pt x 90.28555pt.
+Package epstopdf Info: Source file: <RotationCurve_4.eps>
+(epstopdf)                    date: 2018-02-25 13:51:30
+(epstopdf)                    size: 22039 bytes
+(epstopdf)             Output file: <RotationCurve_4-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:16:06
+(epstopdf)                    size: 4843 bytes
+(epstopdf)             Command: <epstopdf --outfile=RotationCurve_4-eps-convert
+ed-to.pdf RotationCurve_4.eps>
+(epstopdf)             \includegraphics on input line 408.
+Package epstopdf Info: Output file is already uptodate.
+
+<RotationCurve_4-eps-converted-to.pdf, id=107, 366.36874pt x 305.14pt>
+File: RotationCurve_4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use RotationCurve_4-eps-converted-to.pdf>
+Package pdftex.def Info: RotationCurve_4-eps-converted-to.pdf used on input lin
+e 408.
+(pdftex.def)             Requested size: 108.405pt x 90.28555pt.
+Package epstopdf Info: Source file: <RotationCurve_5.eps>
+(epstopdf)                    date: 2018-02-25 13:52:27
+(epstopdf)                    size: 21353 bytes
+(epstopdf)             Output file: <RotationCurve_5-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:16:07
+(epstopdf)                    size: 4647 bytes
+(epstopdf)             Command: <epstopdf --outfile=RotationCurve_5-eps-convert
+ed-to.pdf RotationCurve_5.eps>
+(epstopdf)             \includegraphics on input line 411.
+Package epstopdf Info: Output file is already uptodate.
+
+<RotationCurve_5-eps-converted-to.pdf, id=108, 366.36874pt x 305.14pt>
+File: RotationCurve_5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use RotationCurve_5-eps-converted-to.pdf>
+Package pdftex.def Info: RotationCurve_5-eps-converted-to.pdf used on input lin
+e 411.
+(pdftex.def)             Requested size: 108.405pt x 90.28555pt.
+Package epstopdf Info: Source file: <RotationCurve_6.eps>
+(epstopdf)                    date: 2018-02-25 13:53:31
+(epstopdf)                    size: 19960 bytes
+(epstopdf)             Output file: <RotationCurve_6-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:16:09
+(epstopdf)                    size: 4244 bytes
+(epstopdf)             Command: <epstopdf --outfile=RotationCurve_6-eps-convert
+ed-to.pdf RotationCurve_6.eps>
+(epstopdf)             \includegraphics on input line 414.
+Package epstopdf Info: Output file is already uptodate.
+
+<RotationCurve_6-eps-converted-to.pdf, id=109, 366.36874pt x 305.14pt>
+File: RotationCurve_6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use RotationCurve_6-eps-converted-to.pdf>
+Package pdftex.def Info: RotationCurve_6-eps-converted-to.pdf used on input lin
+e 414.
+(pdftex.def)             Requested size: 108.405pt x 90.28555pt.
+Package epstopdf Info: Source file: <RotationCurve_7.eps>
+(epstopdf)                    date: 2018-02-25 13:54:58
+(epstopdf)                    size: 19268 bytes
+(epstopdf)             Output file: <RotationCurve_7-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:16:10
+(epstopdf)                    size: 4034 bytes
+(epstopdf)             Command: <epstopdf --outfile=RotationCurve_7-eps-convert
+ed-to.pdf RotationCurve_7.eps>
+(epstopdf)             \includegraphics on input line 417.
+Package epstopdf Info: Output file is already uptodate.
+
+<RotationCurve_7-eps-converted-to.pdf, id=110, 366.36874pt x 305.14pt>
+File: RotationCurve_7-eps-converted-to.pdf Graphic file (type pdf)
+
+<use RotationCurve_7-eps-converted-to.pdf>
+Package pdftex.def Info: RotationCurve_7-eps-converted-to.pdf used on input lin
+e 417.
+(pdftex.def)             Requested size: 108.405pt x 90.28555pt.
+Package epstopdf Info: Source file: <RotationCurve_8.eps>
+(epstopdf)                    date: 2018-02-25 13:55:52
+(epstopdf)                    size: 18054 bytes
+(epstopdf)             Output file: <RotationCurve_8-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-27 15:16:12
+(epstopdf)                    size: 3578 bytes
+(epstopdf)             Command: <epstopdf --outfile=RotationCurve_8-eps-convert
+ed-to.pdf RotationCurve_8.eps>
+(epstopdf)             \includegraphics on input line 420.
+Package epstopdf Info: Output file is already uptodate.
+
+<RotationCurve_8-eps-converted-to.pdf, id=111, 366.36874pt x 305.14pt>
+File: RotationCurve_8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use RotationCurve_8-eps-converted-to.pdf>
+Package pdftex.def Info: RotationCurve_8-eps-converted-to.pdf used on input lin
+e 420.
+(pdftex.def)             Requested size: 108.405pt x 90.28555pt.
+ (conference_article.bbl [5])
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[6 <./map_1-eps-converted-to.pdf> <./map_2-eps-converted-to.pdf> <./map_3-eps-c
+onverted-to.pdf> <./map_4-eps-converted-to.pdf> <./map_5-eps-converted-to.pdf> 
+<./map_6-eps-converted-to.pdf> <./map_7-eps-converted-to.pdf> <./map_8-eps-conv
+erted-to.pdf> <./RotationCurve_1-eps-converted-to.pdf> <./RotationCurve_2-eps-c
+onverted-to.pdf> <./RotationCurve_3-eps-converted-to.pdf> <./RotationCurve_4-ep
+s-converted-to.pdf> <./RotationCurve_5-eps-converted-to.pdf> <./RotationCurve_6
+-eps-converted-to.pdf> <./RotationCurve_7-eps-converted-to.pdf> <./RotationCurv
+e_8-eps-converted-to.pdf>] (conference_article.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5659 strings out of 495222
+ 85822 string characters out of 3181578
+ 155866 words of memory out of 3000000
+ 8806 multiletter control sequences out of 15000+200000
+ 61996 words of font info for 144 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 39i,19n,49p,2339b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/Latex_Portable/texmfs/install/fonts/enc/dvips/base/8r.enc}<D:/Latex_Porta
+ble/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Latex_Portable
+/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx5.pfb><D:/Latex_Portable/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Latex_Portable/texmfs
+/install/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><D:/Latex_Portable/texmf
+s/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Latex_Portable/texmfs/i
+nstall/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/Latex_Portable/texmfs/insta
+ll/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Latex_Portable/texmfs/install/f
+onts/type1/public/amsfonts/cm/cmmi8.pfb><D:/Latex_Portable/texmfs/install/fonts
+/type1/public/amsfonts/cm/cmmi9.pfb><D:/Latex_Portable/texmfs/install/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb><D:/Latex_Portable/texmfs/install/fonts/type1/p
+ublic/amsfonts/cm/cmr5.pfb><D:/Latex_Portable/texmfs/install/fonts/type1/public
+/amsfonts/cm/cmr6.pfb><D:/Latex_Portable/texmfs/install/fonts/type1/public/amsf
+onts/cm/cmr7.pfb><D:/Latex_Portable/texmfs/install/fonts/type1/public/amsfonts/
+cm/cmr8.pfb><D:/Latex_Portable/texmfs/install/fonts/type1/public/amsfonts/cm/cm
+r9.pfb><D:/Latex_Portable/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><D:/Latex_Portable/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
+<D:/Latex_Portable/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/
+Latex_Portable/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/Late
+x_Portable/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Latex_P
+ortable/texmfs/install/fonts/type1/public/amsfonts/cm/cmti7.pfb><D:/Latex_Porta
+ble/texmfs/install/fonts/type1/public/amsfonts/cm/cmti8.pfb><D:/Latex_Portable/
+texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb><D:/Latex_Portabl
+e/texmfs/install/fonts/type1/urw/times/utmb8a.pfb><D:/Latex_Portable/texmfs/ins
+tall/fonts/type1/urw/times/utmbi8a.pfb><D:/Latex_Portable/texmfs/install/fonts/
+type1/urw/times/utmr8a.pfb><D:/Latex_Portable/texmfs/install/fonts/type1/urw/ti
+mes/utmri8a.pfb>
+Output written on conference_article.pdf (6 pages, 476577 bytes).
+PDF statistics:
+ 266 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+
