@@ -43,7 +43,7 @@ banrupamallik@gmail.com}
 \maketitle
 
 \begin{abstract}
-After the discovery of radiation from Galactic Hydrogen gas clouds in 1951 the 21cm wavelength HI line had become the best procedure to study spectral profiles in radio astronomy. It has utilized as an important tracer for the distribution and velocity of gas clouds in the Interstellar that has helped enormously to understand the galactic structure. On the other hand, ICT based Astronomy and Astrophysics tools have been being developed for decades. For undergraduate-level laboratory experiment, it can be assembled a radio frequency receiving system at a minimal cost which can be controlled through the Internet to study galactic structure and dynamics. This paper presents an observation to study galaxy dynamics and map its spiral structure which was carried out within galactic coordinate longitude $6\degree$ to $225\degree$ and latitude $0\degree$ to $35\degree$ with a low cost Haystack model type radio frequency receiving system $2.3$ meter SALSA radio telescope at Onsala Space Observatory in Sweden maintained by Chalmers University of Technology. Components of the velocity of Hydrogen gas clouds were calculated using different galactic longitudes and latitudes as a function of galactic distance from the center to plot spiral galactic arms and rotation curve. This radio observational experiment was done by remote operation through the Internet in frequency switching mode. This project aims to prove quality and importance of this type of ICT based tools for astronomy education and citizen science.
+After the discovery of radiation from Galactic Hydrogen gas clouds in 1951, the 21cm wavelength HI line had become the best marker to study spectral profiles in radio astronomy. It has been utilized as an important tracer for the distribution and velocity of molecular gas clouds in the Interstellar that has helped enormously in the understanding of galactic structure. ICT based astronomy and astrophyscis tools have been developed for decades for undergraduate level use including radio telescopes controllable over the Internet at minimal cost. These radio telescopes can effectively be used to study galactic structure and dynamics. This paper presents an observation to study galaxy dynamics and map its spiral structure which was carried out between galactic coordinate longitudes $6\degree$ to $225\degree$ and latitudes $0\degree$ to $35\degree$ with two low cost $2.3$ meters Haystack model type radio frequency receiving systems called SALSA radio telescopes at Onsala Space Observatory in Sweden which is maintained by Chalmers University of Technology. Components of the velocity of Hydrogen gas clouds were calculated using different galactic longitudes and latitudes as a function of galactic distance from the center to plot spiral galactic arms and rotation curves. This radio observational experiment was done by remote operation over the Internet in frequency switching mode. Our project aims to prove the quality and importance of this type of ICT based tools for astronomical education and citizen science.
 \end{abstract}
 
 \begin{IEEEkeywords}
@@ -51,13 +51,13 @@ Open Educational Resources, STEM, Educational technology, Physics education, Stu
 \end{IEEEkeywords}
 
 \section{Introduction}
-Neutral Hydrogen(HI) at the ground state level is abundant and uniformly distributed element throughout the interstellar medium(ISM). It is the most ubiquitous element in interstellar  low-density regions but can be detected in $\lambda\approx21$ cm or $\approx1420$ MHz where $\textnormal{H}_2$ is symmetric but not detectable at the radio frequencies\cite{HI2016}. In 1933 Karl Guthe Jansky detected first extraterrestrial radio frequency\cite{jansky1933radio}. After that in 45 Then Van de Hulst predicted $21$ cm wavelength emission\cite{CJBakker1945}. The same frequency line is also detected by Muller and Oort\cite{muller1951observation} in the same year. A preliminary survey was made by Christiansen and Hindman\cite{christiansen1952preliminary} in Australia. They made this survey with a $7.5$\textnormal{-m} paraboloid and movable radio antenna that had beam width between half power with direction of $1.9\degree$ horizontally and $2.7\degree$ vertically and it covered galactic longitude $-10\degree$ to $+10\degree$ at galactic plane. In Netherlands Muller and Westerhout\cite{Muller1957} took an extended neutral HI line profile survey and made a catalog approximately in galactic latitude $\pm20\degree$ and longitude $318\degree$ to $220\degree$. Within these periods angular resolution has been developed from $30\degree$ to $30$\,-$\mu$as\cite{kellermann2001development,Middelberg2008}. Recently all-sky mapping in HI line based on EBHIS and GASS has been completed\cite{bekhti2016hi4pi} with angular resolution $16.2\arcsec$ and sensitivity $\sigma_{rms}=43$\,mK. Santo and Ashraf carried out a galactic survey to map the Milky Way galaxy in galactic longitude $0\degree$ to $225\degree$ in galactic plane\cite{santo2013mapping} using SALSA radio telescope which was built for EU HOU project\cite{Doran2007}. Considering this observation we have accomplished our observation using the SALSA radio telescope in extended galactic coordinates i.e., galactic longitude $6\degree$ to $225\degree$ and latitude $0\degree$ to $35\degree$. We have discussed here SALSA Radio Telescope, Basic block diagram of a SALSA type telescope, galactic geometry for observable parameters, observation details, data analysis and results with plotting and importance of this project.
+Neutral Hydrogen(HI) at the ground state level is an abundant and uniformly distributed element throughout the interstellar medium(ISM). It is the most ubiquitous element in interstellar  low-density regions but can be detected in $\lambda\approx21$ cm or $\approx1420$ MHz where $\textnormal{H}_2$ is symmetric but not detectable at the radio frequencies\cite{HI2016}. In 1933, Karl Guthe Jansky detected first extraterrestrial radio frequency\cite{jansky1933radio}. In 1945 then Van de Hulst predicted $21$ cm wavelength emission\cite{CJBakker1945}. The same frequency line is also detected by Muller and Oort\cite{muller1951observation} in the same year. A preliminary survey was made by Christiansen and Hindman\cite{christiansen1952preliminary} in Australia. They made this survey with a $7.5$\textnormal{-m} paraboloid and movable radio antenna that had a beam width between half power with direction of $1.9\degree$ horizontally and $2.7\degree$ vertically and it covered galactic longitudes $-10\degree$ to $+10\degree$ in the galactic plane. In Netherlands, Muller and Westerhout\cite{Muller1957} took an extended neutral HI line profile survey and made a catalog approximately in galactic latitude $\pm20\degree$ and longitude $318\degree$ to $220\degree$. Within these periods angular resolution has been developed from $30\degree$ to $30$\,-$\mu$as\cite{kellermann2001development,Middelberg2008}. Recently all-sky mapping in HI line based on EBHIS and GASS has been completed\cite{bekhti2016hi4pi} with angular resolution $16.2\arcsec$ and sensitivity $\sigma_{rms}=43$\,mK. Santo and Ashraf carried out a galactic survey to map the Milky Way galaxy in galactic longitudes $0\degree$ to $225\degree$ in the galactic plane\cite{santo2013mapping} using SALSA radio telescope which was built for EU HOU project\cite{Doran2007}. Considering this observation we have accomplished our observation using the SALSA radio telescope in extended galactic coordinates i.e., galactic longitudes $6\degree$ to $225\degree$ and latitudes $0\degree$ to $35\degree$. We have discussed here SALSA Radio Telescope, Basic block diagram of a SALSA type telescope, galactic geometry for observable parameters, observation details, data analysis and results with plotting and importance of this project.
 
 \section{SALSA Radio Telescope}
 
 \subsection{Basic Details of SALSA}
 
-SALSA is a part of the European Hands-On Universe project(EU-HOU)\cite{Ferlet2006} to bring interactive lessons of astronomy to the classroom\cite{SALSAS2018}. There are two SALSA telescopes with the same specification see Table~\ref{Tab:salsa_specification}\cite{ThomasBensby2017}. Anyone can control these telescopes using Internet browser by log in https://vale.oso.chalmers.se/salsa/ for free at any time. 
+SALSA is a part of the European Hands-On Universe project(EU-HOU)\cite{Ferlet2006} designed to bring interactive lessons of astronomy to the classroom\cite{SALSAS2018}. There are two SALSA telescopes with the same specification see Table~\ref{Tab:salsa_specification}\cite{ThomasBensby2017}. Anyone can control these telescopes using Internet browser by log in https://vale.oso.chalmers.se/salsa/ for free at any time. 
 
 
 \begin{table*}[htbp]
@@ -110,7 +110,7 @@ This components are the same as Haystack small radio telescope\cite{DustinJohnso
 
 \subsection{Basic Diagram of a Small Radio Telescope}
 
-SALSA block diagram is the same as Haystack model see Figure~\ref{fig:block_figure} shows the block diagram of the entire radio system, with fundamental elements, theoretical gain and attenuation of signal for each stage and see Table~\ref{Tab:block_summerize} is a summery of key data of this system\cite{DustinJohnson2012}.
+The SALSA block diagram is the same as the Haystack model see Figure~\ref{fig:block_figure} shows the block diagram of the entire radio system, with fundamental elements, theoretical gain and attenuation of signal for each stage and see Table~\ref{Tab:block_summerize} is a summery of key data of this system\cite{DustinJohnson2012}.
 
 \begin{figure}[htbp]
 \centerline{\includegraphics[width=3.5in]{block.pdf}}
@@ -145,7 +145,7 @@ System temperature & 171 K\\
 
 \subsection{Hyperfine Splitting of Hydrogen}
 
-Neutral Hydrogen consists of a motionless proton(positively charged $+e$) and moving electron(negatively charged $-e$) see Figure~\ref{fig:hyperfine_figure}. Electron orbits around the proton for the mutual attraction of opposite charges. The derivation is as follows Griffiths\cite{griffiths2016introduction}. We can imagine electron is orbiting around nucleus(proton). From the view of an electron, the proton is orbiting electron. This circling creates a magnetic field $\vec{B}$ in the frame of an electron which causes a torque on the spinning electron. It has a tendency to align its magnetic moment($\vec{\mu}$) along the direction of magnetic field\cite{griffiths2016introduction}. So Hamiltonian~(\ref{eq:hamiltonian})
+Neutral Hydrogen consists of a motionless proton(positively charged $+e$) and moving electron(negatively charged $-e$) see Figure~\ref{fig:hyperfine_figure}. The electron orbits around the proton for the mutual attraction of opposite charges. The derivation is as follows Griffiths\cite{griffiths2016introduction}. We can imagine electron is orbiting around nucleus(proton). From the view of an electron, the proton is orbiting electron. This circling creates a magnetic field $\vec{B}$ in the frame of an electron which causes a torque on the spinning electron. It has a tendency to align its magnetic moment($\vec{\mu}$) along the direction of magnetic field\cite{griffiths2016introduction}. So Hamiltonian~(\ref{eq:hamiltonian})
 
 \begin{equation}
   H=-\vec{\mu}\cdot\vec{B}
@@ -341,7 +341,7 @@ This observation was made with SALSA Radio Telescope situated in Onsala Space Ob
 
 \subsection{Data Reduction}
 
-The observation was made in galactic coordinate longitude $6\degree$ to $225\degree$ and latitude $0\degree$ to $35\degree$ following $3\degree$ for galactic longitudes and $5\degree$ for galactic latitudes. The spectra were collected with integration time $150-300$\,seconds for each. By observing radio emission from galaxy Hydrogen, we have come to know about the motion of Hydrogen gas clouds around the Milky Way galaxy. We have used the Doppler effect to relate observed frequency spectra to the velocity of emitting Hydrogen gas clouds. By the equation of Doppler shift\cite{CathyHorellou2015} we get~(\ref{eq:doppler})
+The observation was made between galactic coordinate longitudes $6\degree$ to $225\degree$ and latitudes $0\degree$ to $35\degree$ following $3\degree$ for galactic longitudes and $5\degree$ for galactic latitudes. The spectra were collected with integration times of $150-300$\,seconds for each. This survey covered $-300<\mathit{V}_{LSR}<300$\,$kms^{-1}$. We tried to collect emission spectrum data at $\mathit{V}_{LSR}\approx 0$\,$kms^{-1}$. By observing radio emission from neutral galactic Hydrogen, we have mapped the motion of Hydrogen gas clouds around the Milky Way galaxy. We have used the Doppler effect to relate observed frequency spectra to the velocity of emitting Hydrogen gas clouds. By the equation of Doppler shift\cite{CathyHorellou2015} we get~(\ref{eq:doppler})
 
 \begin{equation}
  \frac{\mathbf{f}-\mathbf{f}_{0}}{\mathbf{f}_{0}}=-\frac{\vec{v}}{\vec{c}}
@@ -363,60 +363,60 @@ The Gaussian Fit equation~(\ref{eq:gaussianfit}) has been applied to calculate t
 
 \begin{figure*}[!t]
 \centering
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=0\degree$]{\includegraphics[width=1.5in]{map_1}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=0\degree$]{\includegraphics[width=1.5in]{map_1}
 \label{fig_first_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=5\degree$]{\includegraphics[width=1.5in]{map_2}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=5\degree$]{\includegraphics[width=1.5in]{map_2}
 \label{fig_second_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=10\degree$]{\includegraphics[width=1.5in]{map_3}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=10\degree$]{\includegraphics[width=1.5in]{map_3}
 \label{fig_third_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=15\degree$]{\includegraphics[width=1.5in]{map_4}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=15\degree$]{\includegraphics[width=1.5in]{map_4}
 \label{fig_fourth_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=20\degree$]{\includegraphics[width=1.5in]{map_5}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=20\degree$]{\includegraphics[width=1.5in]{map_5}
 \label{fig_fifth_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=25\degree$]{\includegraphics[width=1.5in]{map_6}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=25\degree$]{\includegraphics[width=1.5in]{map_6}
 \label{fig_sixth_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=30\degree$]{\includegraphics[width=1.5in]{map_7}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=30\degree$]{\includegraphics[width=1.5in]{map_7}
 \label{fig_seventh_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=35\degree$]{\includegraphics[width=1.5in]{map_8}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=35\degree$]{\includegraphics[width=1.5in]{map_8}
 \label{fig_eighth_case}}
 \hfil
 \caption{Map of Milky Way at Galactic longitude(l) and Galactic longitude(b)}
 \label{fig:map}
 \end{figure*}
 
-Moreover we know that rotation curve is a function between circular velocity and radius. By using SALSA Telescope we can calculate the rotation curve of Milky Way\cite{CathyHorellou2015}. We have calculated and plotted the rotation curve see Figure~\ref{fig:rot}. Rotation curve of most galaxies which have solar systems shows flat rotation curve i.e. $\vec{V}(\mathit{R})$ does not depend on $\mathit{R}$ beyond certain radius. Angular velocity$\Omega$ varies as $\frac{1}{\mathit{R}}$. Matter near galactic center rotates with a larger angular speed than matter of farther away. But for larger radii this velocity is significantly larger than Keplerian case\cite{CathyHorellou2015}. The figures we have got indication of existence of dark matter see Figure~\ref{fig:rot}
+Moreover we know that rotation curve is a function between circular velocity and radius. By using SALSA Telescope we can calculate the rotation curve of Milky Way\cite{CathyHorellou2015}. We have calculated and plotted the rotation curve see Figure~\ref{fig:rot}. In the data of rotation curve we found that maximum mean $\vec{V(R)}$ is $233.1279$\,$kms^{-1}$ with $\sigma=120.8813$($\mathit{l}=6\degree-225\degree$ and $\mathit{b}=35\degree$) and minimum mean $\vec{V(R)}$ is $112.9917$\,$kms^{-1}$ with $\sigma=73.12281$($\mathit{l}=6\degree-225\degree$ and $\mathit{b}=25\degree$). Rotation curve of most galaxies which have solar systems shows flat rotation curve i.e. $\vec{V}(\mathit{R})$ does not depend on $\mathit{R}$ beyond certain radius. Angular velocity$\Omega$ varies as $\frac{1}{\mathit{R}}$. Matter near galactic center rotates with a larger angular speed than matter of farther away. But for larger radii this velocity is significantly larger than Keplerian case\cite{CathyHorellou2015}. The figures we have got indication of existence of dark matter see Figure~\ref{fig:rot}
 
 \begin{figure*}[!t]
 \centering
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=0\degree$]{\includegraphics[width=1.5in]{RotationCurve_1}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=0\degree$]{\includegraphics[width=1.5in]{RotationCurve_1}
 \label{fig_first_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=5\degree$]{\includegraphics[width=1.5in]{RotationCurve_2}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=5\degree$]{\includegraphics[width=1.5in]{RotationCurve_2}
 \label{fig_second_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=10\degree$]{\includegraphics[width=1.5in]{RotationCurve_3}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=10\degree$]{\includegraphics[width=1.5in]{RotationCurve_3}
 \label{fig_third_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=15\degree$]{\includegraphics[width=1.5in]{RotationCurve_4}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=15\degree$]{\includegraphics[width=1.5in]{RotationCurve_4}
 \label{fig_fourth_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=20\degree$]{\includegraphics[width=1.5in]{RotationCurve_5}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=20\degree$]{\includegraphics[width=1.5in]{RotationCurve_5}
 \label{fig_fifth_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=25\degree$]{\includegraphics[width=1.5in]{RotationCurve_6}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=25\degree$]{\includegraphics[width=1.5in]{RotationCurve_6}
 \label{fig_sixth_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=30\degree$]{\includegraphics[width=1.5in]{RotationCurve_7}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=30\degree$]{\includegraphics[width=1.5in]{RotationCurve_7}
 \label{fig_seventh_case}}
 \hfil
-\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{l}=35\degree$]{\includegraphics[width=1.5in]{RotationCurve_8}
+\subfloat[$\mathit{l}=6\degree-225\degree$ and $\mathit{b}=35\degree$]{\includegraphics[width=1.5in]{RotationCurve_8}
 \label{fig_eighth_case}}
 \hfil
 \caption{Rotation Curve of Milky Way at Galactic longitude(l) and Galactic longitude(b)}
@@ -425,23 +425,23 @@ Moreover we know that rotation curve is a function between circular velocity and
 
 \section{Limitations and Errors}
 
-For the cause of small diameter of SALSA Telescope it reduces sensitivity and resolution. But they have strong and sensitive receiver and so detected important signals but could not detect the weaker (HI) signals from lower density areas. Below $6\degree$ and above $225\degree$ was not possible to observe for geographical position of telescopes. For this reason we could not observe the whole spiral structure of the Milky Way galaxy. There may be found errors in measuring central velocity of raw spectra\cite{CathyHorellou2015,santo2013mapping}.
+The small size of the SALSA telescope limits its sensitivity and resolution. But it has a strong and sensitive receiver and so detected important signals but could not detect the weaker (HI) signals from lower density areas. Below $6\degree$ and above $225\degree$ was not possible to observe for geographical position of telescopes. For this reason we could not observe the whole spiral structure of the Milky Way galaxy. There may be found errors in measuring central velocity of raw spectra\cite{CathyHorellou2015,santo2013mapping}.
 
 
 \section{Importance of this Experiment}
-The aim of this experiment is to describe how Astrophysics students who are actually amateur level astronomers can evaluate galaxy dynamics and detect existence of dark matter in our galaxy easily with small radio telescope. This kind of practice can educate educators, students and enthusiasts. In fact, radio astronomy had become popular by some amateur level astronomers by detecting signals from the galaxy. Cost effective instruments can be utilized to do amateur experiments because professional observatories are tightly scheduled for high-level scientific experiments. Professional Astronomers use high sensitive radio astronomical instruments to concentrate for a short time. But amateur level astronomers can do that for a long time. There are many amateur level radio clubs are doing some important projects like solar flare disturbance detection. Even citizen scientists can contribute to discover new things which can be slipped by professional scientists. So this kind of experiment has importance for both of education and research purposes. For Physics students, the galactic structure is important to learn the dynamics of galaxies and galactic dark matter detection. Students will need to be able to learn different types of coordinates, maps and coordinate transformations according to celestial reference systems. There are two types of techniques are applied and they are imagining and non-imaging. Observation of planetary radio signals, collecting solar flare data, meteor shower counts, GNSS satellite tracking, x-ray solar bursts etc. are included in non-imaging. They will learn also about imaging techniques, signal processing and collecting data from raw radio data sources with computer programming. Since an astrophysical observatory has many complex instruments, and if automated, it is a good example of automation for STEM students. By this way, students will learn about radio astronomy, physics, mathematics, computer programs etc.
+The aim of this experiment is to describe how Astrophysics students who are actually amateur level astronomers can evaluate galaxy dynamics and detect existence of dark matter in our galaxy easily with small radio telescope. This kind of practice can enlighten educators, students and enthusiasts. In fact, radio astronomy had become popular by some amateur level astronomers by detecting signals from the galaxy. Cost effective instruments can be utilized to do amateur experiments because professional observatories are tightly scheduled for high-level scientific experiments. Professional Astronomers use highly sensitive radio astronomical instruments to concentrate for a short time. But amateur level astronomers can do that for a long time. There are many amateur level radio clubs that are doing some important projects like solar flare disturbance detection. Even citizen scientists can contribute to discover new things which can be missed by professional scientists. So this kind of experiment has importance for both of education and research purposes. For Physics students, the galactic structure is important to learn the dynamics of galaxies and galactic dark matter detection. Students will need to be able to learn different types of coordinates, maps and coordinate transformations according to celestial reference systems. There are two types of techniques that are applied and they are imaging and non-imaging. Observation of planetary radio signals, collecting solar flare data, meteor shower counts, GNSS satellite tracking, x-ray solar bursts etc. are included in non-imaging. They will learn also about imaging techniques, signal processing and collecting data from raw radio data sources with computer programming. Since an astrophysical observatory has many complex instruments, and if automated, it is a good example of automation for STEM students. By this way, students will learn about radio astronomy, physics, mathematics, computer programs etc.
 
 
 
 \section{Conclusions}
 
-We have observed the Milky Way galaxy within galactic longitudes $6\degree$ to $225\degree$ and latitudes $0\degree$ to $3\degree$ successfully and mapped it with rotation curves which prove the existence of dark matter. It matched with previous observations. The spiral structure is clearly detectable in maps. In future, we will observe with a larger professional radio telescope for an all-sky survey to understand the 3D structure of Milky Way and its properties with higher sensitivity and higher resolution.
+We have observed the Milky Way galaxy within galactic longitudes $6\degree$ to $225\degree$ and latitudes $0\degree$ to $3\degree$ successfully and mapped it with rotation curves which prove the existence of dark matter. This agrees with previous observations. The spiral structure is clearly detectable in maps. In future, we will observe with a larger professional radio telescope for an all-sky survey to understand the 3D structure of Milky Way and its properties with higher sensitivity and higher resolution.
 
 \section*{Acknowledgment}
 
-We are grateful to Onsala space observatory and the Chalmers University of Technology for their cooperation to carry out this survey. Special thanks to Eskil Varenius who was a supervisor of SALSA Radio Telescope. He helped us a lot to operate this telescopes and provided important information about data collection, data reduction, and analysis.
+We are grateful to Onsala Space observatory and the Chalmers University of Technology for their cooperation to carry out this survey. Special thanks to Eskil Varenius who was a supervisor of SALSA Radio Telescope. He helped us a lot to operate this telescopes and provided important information about data collection, data reduction, and analysis.
 
-\section*{References}
+%\section*{References}
 
 
 %%----------------Bibliography Style And Bibliography File-------------
