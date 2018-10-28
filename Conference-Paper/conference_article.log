@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2018.2.8)  27 OCT 2018 17:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2018.2.8)  28 OCT 2018 12:58
 entering extended mode
 **./conference_article.tex
 (conference_article.tex
@@ -426,24 +426,24 @@ LaTeX Warning: Label `sub@fig_eighth_case' multiply defined.
 )
 \openout1 = `conference_article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 25.
  (D:\Latex_Portable\texmfs\install\tex\latex\base\ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
 
 -- Lines per column: 56 (exact).
 (D:\Latex_Portable\texmfs\install\tex\context\base\supp-pdf.mkii
@@ -507,55 +507,54 @@ G,.JBIG2,.JB2,.eps]
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+LaTeX Font Info:    Try loading font information for U+msa on input line 25.
 
 (D:\Latex_Portable\texmfs\install\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+LaTeX Font Info:    Try loading font information for U+msb on input line 25.
 
 (D:\Latex_Portable\texmfs\install\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \symgns@font=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/ptm/m/n --> TS1/ptm/bx/n on input line 23.
-Package gensymb Info: Math companion symbols declared on input line 23.
-LaTeX Info: Redefining \degree on input line 23.
-LaTeX Info: Redefining \celsius on input line 23.
+(Font)                  TS1/ptm/m/n --> TS1/ptm/bx/n on input line 25.
+Package gensymb Info: Math companion symbols declared on input line 25.
+LaTeX Info: Redefining \degree on input line 25.
+LaTeX Info: Redefining \celsius on input line 25.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 23.
-LaTeX Info: Redefining \ohm on input line 23.
-Package gensymb Info: Using \textohm for \ohm on input line 23.
-LaTeX Info: Redefining \micro on input line 23.
-Package gensymb Info: Using \textmu for \micro on input line 23.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 43.
+erthousand on input line 25.
+LaTeX Info: Redefining \ohm on input line 25.
+Package gensymb Info: Using \textohm for \ohm on input line 25.
+LaTeX Info: Redefining \micro on input line 25.
+Package gensymb Info: Using \textmu for \micro on input line 25.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 45.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 45.
 
 (D:\Latex_Portable\texmfs\install\tex\latex\psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 43.
- [1{D:/Latex_Portable/texmfs/data/pdftex/config/pdftex.map}
+) [1{D:/Latex_Portable/texmfs/data/pdftex/config/pdftex.map}
 
 
 ]
 <block.pdf, id=17, 794.97pt x 614.295pt>
 File: block.pdf Graphic file (type pdf)
  <use block.pdf>
-Package pdftex.def Info: block.pdf used on input line 116.
+Package pdftex.def Info: block.pdf used on input line 120.
 (pdftex.def)             Requested size: 252.94499pt x 195.4536pt.
 
 <hyperfine.pdf, id=18, 572.1375pt x 368.37625pt>
 File: hyperfine.pdf Graphic file (type pdf)
  <use hyperfine.pdf>
-Package pdftex.def Info: hyperfine.pdf used on input line 156.
+Package pdftex.def Info: hyperfine.pdf used on input line 160.
 (pdftex.def)             Requested size: 180.67499pt x 116.3314pt.
  [2 <./block.pdf> <./hyperfine.pdf>] <galgeom.pdf, id=45, 225.84375pt x 229.858
 75pt>
 File: galgeom.pdf Graphic file (type pdf)
 
 <use galgeom.pdf>
-Package pdftex.def Info: galgeom.pdf used on input line 274.
+Package pdftex.def Info: galgeom.pdf used on input line 278.
 (pdftex.def)             Requested size: 144.54pt x 147.11609pt.
  [3 <./galgeom.pdf>] [4]
 Package epstopdf Info: Source file: <map_1.eps>
@@ -566,14 +565,14 @@ Package epstopdf Info: Source file: <map_1.eps>
 (epstopdf)                    size: 17761 bytes
 (epstopdf)             Command: <epstopdf --outfile=map_1-eps-converted-to.pdf 
 map_1.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 371.
 Package epstopdf Info: Output file is already uptodate.
 
 <map_1-eps-converted-to.pdf, id=96, 296.10625pt x 305.14pt>
 File: map_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use map_1-eps-converted-to.pdf>
-Package pdftex.def Info: map_1-eps-converted-to.pdf used on input line 367.
+Package pdftex.def Info: map_1-eps-converted-to.pdf used on input line 371.
 (pdftex.def)             Requested size: 108.405pt x 111.71272pt.
 Package epstopdf Info: Source file: <map_2.eps>
 (epstopdf)                    date: 2018-02-25 13:49:02
@@ -583,14 +582,14 @@ Package epstopdf Info: Source file: <map_2.eps>
 (epstopdf)                    size: 15730 bytes
 (epstopdf)             Command: <epstopdf --outfile=map_2-eps-converted-to.pdf 
 map_2.eps>
-(epstopdf)             \includegraphics on input line 370.
+(epstopdf)             \includegraphics on input line 374.
 Package epstopdf Info: Output file is already uptodate.
 
 <map_2-eps-converted-to.pdf, id=97, 296.10625pt x 305.14pt>
 File: map_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use map_2-eps-converted-to.pdf>
-Package pdftex.def Info: map_2-eps-converted-to.pdf used on input line 370.
+Package pdftex.def Info: map_2-eps-converted-to.pdf used on input line 374.
 (pdftex.def)             Requested size: 108.405pt x 111.71272pt.
 Package epstopdf Info: Source file: <map_3.eps>
 (epstopdf)                    date: 2018-02-25 13:50:06
@@ -600,14 +599,14 @@ Package epstopdf Info: Source file: <map_3.eps>
 (epstopdf)                    size: 13674 bytes
 (epstopdf)             Command: <epstopdf --outfile=map_3-eps-converted-to.pdf 
 map_3.eps>
-(epstopdf)             \includegraphics on input line 373.
+(epstopdf)             \includegraphics on input line 377.
 Package epstopdf Info: Output file is already uptodate.
 
 <map_3-eps-converted-to.pdf, id=98, 296.10625pt x 305.14pt>
 File: map_3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use map_3-eps-converted-to.pdf>
-Package pdftex.def Info: map_3-eps-converted-to.pdf used on input line 373.
+Package pdftex.def Info: map_3-eps-converted-to.pdf used on input line 377.
 (pdftex.def)             Requested size: 108.405pt x 111.71272pt.
 Package epstopdf Info: Source file: <map_4.eps>
 (epstopdf)                    date: 2018-02-25 13:51:19
@@ -617,14 +616,14 @@ Package epstopdf Info: Source file: <map_4.eps>
 (epstopdf)                    size: 9252 bytes
 (epstopdf)             Command: <epstopdf --outfile=map_4-eps-converted-to.pdf 
 map_4.eps>
-(epstopdf)             \includegraphics on input line 376.
+(epstopdf)             \includegraphics on input line 380.
 Package epstopdf Info: Output file is already uptodate.
 
 <map_4-eps-converted-to.pdf, id=99, 296.10625pt x 305.14pt>
 File: map_4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use map_4-eps-converted-to.pdf>
-Package pdftex.def Info: map_4-eps-converted-to.pdf used on input line 376.
+Package pdftex.def Info: map_4-eps-converted-to.pdf used on input line 380.
 (pdftex.def)             Requested size: 108.405pt x 111.71272pt.
 Package epstopdf Info: Source file: <map_5.eps>
 (epstopdf)                    date: 2018-02-25 13:52:21
@@ -634,14 +633,14 @@ Package epstopdf Info: Source file: <map_5.eps>
 (epstopdf)                    size: 9395 bytes
 (epstopdf)             Command: <epstopdf --outfile=map_5-eps-converted-to.pdf 
 map_5.eps>
-(epstopdf)             \includegraphics on input line 379.
+(epstopdf)             \includegraphics on input line 383.
 Package epstopdf Info: Output file is already uptodate.
 
 <map_5-eps-converted-to.pdf, id=100, 296.10625pt x 305.14pt>
 File: map_5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use map_5-eps-converted-to.pdf>
-Package pdftex.def Info: map_5-eps-converted-to.pdf used on input line 379.
+Package pdftex.def Info: map_5-eps-converted-to.pdf used on input line 383.
 (pdftex.def)             Requested size: 108.405pt x 111.71272pt.
 Package epstopdf Info: Source file: <map_6.eps>
 (epstopdf)                    date: 2018-02-25 13:53:26
@@ -651,14 +650,14 @@ Package epstopdf Info: Source file: <map_6.eps>
 (epstopdf)                    size: 8101 bytes
 (epstopdf)             Command: <epstopdf --outfile=map_6-eps-converted-to.pdf 
 map_6.eps>
-(epstopdf)             \includegraphics on input line 382.
+(epstopdf)             \includegraphics on input line 386.
 Package epstopdf Info: Output file is already uptodate.
 
 <map_6-eps-converted-to.pdf, id=101, 296.10625pt x 305.14pt>
 File: map_6-eps-converted-to.pdf Graphic file (type pdf)
 
 <use map_6-eps-converted-to.pdf>
-Package pdftex.def Info: map_6-eps-converted-to.pdf used on input line 382.
+Package pdftex.def Info: map_6-eps-converted-to.pdf used on input line 386.
 (pdftex.def)             Requested size: 108.405pt x 111.71272pt.
 Package epstopdf Info: Source file: <map_7.eps>
 (epstopdf)                    date: 2018-02-25 13:54:53
@@ -668,14 +667,14 @@ Package epstopdf Info: Source file: <map_7.eps>
 (epstopdf)                    size: 7081 bytes
 (epstopdf)             Command: <epstopdf --outfile=map_7-eps-converted-to.pdf 
 map_7.eps>
-(epstopdf)             \includegraphics on input line 385.
+(epstopdf)             \includegraphics on input line 389.
 Package epstopdf Info: Output file is already uptodate.
 
 <map_7-eps-converted-to.pdf, id=102, 296.10625pt x 305.14pt>
 File: map_7-eps-converted-to.pdf Graphic file (type pdf)
 
 <use map_7-eps-converted-to.pdf>
-Package pdftex.def Info: map_7-eps-converted-to.pdf used on input line 385.
+Package pdftex.def Info: map_7-eps-converted-to.pdf used on input line 389.
 (pdftex.def)             Requested size: 108.405pt x 111.71272pt.
 Package epstopdf Info: Source file: <map_8.eps>
 (epstopdf)                    date: 2018-02-25 13:55:44
@@ -685,14 +684,14 @@ Package epstopdf Info: Source file: <map_8.eps>
 (epstopdf)                    size: 4592 bytes
 (epstopdf)             Command: <epstopdf --outfile=map_8-eps-converted-to.pdf 
 map_8.eps>
-(epstopdf)             \includegraphics on input line 388.
+(epstopdf)             \includegraphics on input line 392.
 Package epstopdf Info: Output file is already uptodate.
 
 <map_8-eps-converted-to.pdf, id=103, 296.10625pt x 305.14pt>
 File: map_8-eps-converted-to.pdf Graphic file (type pdf)
 
 <use map_8-eps-converted-to.pdf>
-Package pdftex.def Info: map_8-eps-converted-to.pdf used on input line 388.
+Package pdftex.def Info: map_8-eps-converted-to.pdf used on input line 392.
 (pdftex.def)             Requested size: 108.405pt x 111.71272pt.
 Package epstopdf Info: Source file: <RotationCurve_1.eps>
 (epstopdf)                    date: 2018-02-25 13:47:36
@@ -702,7 +701,7 @@ Package epstopdf Info: Source file: <RotationCurve_1.eps>
 (epstopdf)                    size: 4853 bytes
 (epstopdf)             Command: <epstopdf --outfile=RotationCurve_1-eps-convert
 ed-to.pdf RotationCurve_1.eps>
-(epstopdf)             \includegraphics on input line 399.
+(epstopdf)             \includegraphics on input line 403.
 Package epstopdf Info: Output file is already uptodate.
 
 <RotationCurve_1-eps-converted-to.pdf, id=104, 366.36874pt x 305.14pt>
@@ -710,7 +709,7 @@ File: RotationCurve_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use RotationCurve_1-eps-converted-to.pdf>
 Package pdftex.def Info: RotationCurve_1-eps-converted-to.pdf used on input lin
-e 399.
+e 403.
 (pdftex.def)             Requested size: 108.405pt x 90.28555pt.
 Package epstopdf Info: Source file: <RotationCurve_2.eps>
 (epstopdf)                    date: 2018-02-25 13:49:09
@@ -720,7 +719,7 @@ Package epstopdf Info: Source file: <RotationCurve_2.eps>
 (epstopdf)                    size: 4779 bytes
 (epstopdf)             Command: <epstopdf --outfile=RotationCurve_2-eps-convert
 ed-to.pdf RotationCurve_2.eps>
-(epstopdf)             \includegraphics on input line 402.
+(epstopdf)             \includegraphics on input line 406.
 Package epstopdf Info: Output file is already uptodate.
 
 <RotationCurve_2-eps-converted-to.pdf, id=105, 366.36874pt x 305.14pt>
@@ -728,7 +727,7 @@ File: RotationCurve_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use RotationCurve_2-eps-converted-to.pdf>
 Package pdftex.def Info: RotationCurve_2-eps-converted-to.pdf used on input lin
-e 402.
+e 406.
 (pdftex.def)             Requested size: 108.405pt x 90.28555pt.
 Package epstopdf Info: Source file: <RotationCurve_3.eps>
 (epstopdf)                    date: 2018-02-25 13:50:14
@@ -738,7 +737,7 @@ Package epstopdf Info: Source file: <RotationCurve_3.eps>
 (epstopdf)                    size: 4971 bytes
 (epstopdf)             Command: <epstopdf --outfile=RotationCurve_3-eps-convert
 ed-to.pdf RotationCurve_3.eps>
-(epstopdf)             \includegraphics on input line 405.
+(epstopdf)             \includegraphics on input line 409.
 Package epstopdf Info: Output file is already uptodate.
 
 <RotationCurve_3-eps-converted-to.pdf, id=106, 366.36874pt x 305.14pt>
@@ -746,7 +745,7 @@ File: RotationCurve_3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use RotationCurve_3-eps-converted-to.pdf>
 Package pdftex.def Info: RotationCurve_3-eps-converted-to.pdf used on input lin
-e 405.
+e 409.
 (pdftex.def)             Requested size: 108.405pt x 90.28555pt.
 Package epstopdf Info: Source file: <RotationCurve_4.eps>
 (epstopdf)                    date: 2018-02-25 13:51:30
@@ -756,7 +755,7 @@ Package epstopdf Info: Source file: <RotationCurve_4.eps>
 (epstopdf)                    size: 4843 bytes
 (epstopdf)             Command: <epstopdf --outfile=RotationCurve_4-eps-convert
 ed-to.pdf RotationCurve_4.eps>
-(epstopdf)             \includegraphics on input line 408.
+(epstopdf)             \includegraphics on input line 412.
 Package epstopdf Info: Output file is already uptodate.
 
 <RotationCurve_4-eps-converted-to.pdf, id=107, 366.36874pt x 305.14pt>
@@ -764,7 +763,7 @@ File: RotationCurve_4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use RotationCurve_4-eps-converted-to.pdf>
 Package pdftex.def Info: RotationCurve_4-eps-converted-to.pdf used on input lin
-e 408.
+e 412.
 (pdftex.def)             Requested size: 108.405pt x 90.28555pt.
 Package epstopdf Info: Source file: <RotationCurve_5.eps>
 (epstopdf)                    date: 2018-02-25 13:52:27
@@ -774,7 +773,7 @@ Package epstopdf Info: Source file: <RotationCurve_5.eps>
 (epstopdf)                    size: 4647 bytes
 (epstopdf)             Command: <epstopdf --outfile=RotationCurve_5-eps-convert
 ed-to.pdf RotationCurve_5.eps>
-(epstopdf)             \includegraphics on input line 411.
+(epstopdf)             \includegraphics on input line 415.
 Package epstopdf Info: Output file is already uptodate.
 
 <RotationCurve_5-eps-converted-to.pdf, id=108, 366.36874pt x 305.14pt>
@@ -782,7 +781,7 @@ File: RotationCurve_5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use RotationCurve_5-eps-converted-to.pdf>
 Package pdftex.def Info: RotationCurve_5-eps-converted-to.pdf used on input lin
-e 411.
+e 415.
 (pdftex.def)             Requested size: 108.405pt x 90.28555pt.
 Package epstopdf Info: Source file: <RotationCurve_6.eps>
 (epstopdf)                    date: 2018-02-25 13:53:31
@@ -792,7 +791,7 @@ Package epstopdf Info: Source file: <RotationCurve_6.eps>
 (epstopdf)                    size: 4244 bytes
 (epstopdf)             Command: <epstopdf --outfile=RotationCurve_6-eps-convert
 ed-to.pdf RotationCurve_6.eps>
-(epstopdf)             \includegraphics on input line 414.
+(epstopdf)             \includegraphics on input line 418.
 Package epstopdf Info: Output file is already uptodate.
 
 <RotationCurve_6-eps-converted-to.pdf, id=109, 366.36874pt x 305.14pt>
@@ -800,7 +799,7 @@ File: RotationCurve_6-eps-converted-to.pdf Graphic file (type pdf)
 
 <use RotationCurve_6-eps-converted-to.pdf>
 Package pdftex.def Info: RotationCurve_6-eps-converted-to.pdf used on input lin
-e 414.
+e 418.
 (pdftex.def)             Requested size: 108.405pt x 90.28555pt.
 Package epstopdf Info: Source file: <RotationCurve_7.eps>
 (epstopdf)                    date: 2018-02-25 13:54:58
@@ -810,7 +809,7 @@ Package epstopdf Info: Source file: <RotationCurve_7.eps>
 (epstopdf)                    size: 4034 bytes
 (epstopdf)             Command: <epstopdf --outfile=RotationCurve_7-eps-convert
 ed-to.pdf RotationCurve_7.eps>
-(epstopdf)             \includegraphics on input line 417.
+(epstopdf)             \includegraphics on input line 421.
 Package epstopdf Info: Output file is already uptodate.
 
 <RotationCurve_7-eps-converted-to.pdf, id=110, 366.36874pt x 305.14pt>
@@ -818,7 +817,7 @@ File: RotationCurve_7-eps-converted-to.pdf Graphic file (type pdf)
 
 <use RotationCurve_7-eps-converted-to.pdf>
 Package pdftex.def Info: RotationCurve_7-eps-converted-to.pdf used on input lin
-e 417.
+e 421.
 (pdftex.def)             Requested size: 108.405pt x 90.28555pt.
 Package epstopdf Info: Source file: <RotationCurve_8.eps>
 (epstopdf)                    date: 2018-02-25 13:55:52
@@ -828,7 +827,7 @@ Package epstopdf Info: Source file: <RotationCurve_8.eps>
 (epstopdf)                    size: 3578 bytes
 (epstopdf)             Command: <epstopdf --outfile=RotationCurve_8-eps-convert
 ed-to.pdf RotationCurve_8.eps>
-(epstopdf)             \includegraphics on input line 420.
+(epstopdf)             \includegraphics on input line 424.
 Package epstopdf Info: Output file is already uptodate.
 
 <RotationCurve_8-eps-converted-to.pdf, id=111, 366.36874pt x 305.14pt>
@@ -836,7 +835,7 @@ File: RotationCurve_8-eps-converted-to.pdf Graphic file (type pdf)
 
 <use RotationCurve_8-eps-converted-to.pdf>
 Package pdftex.def Info: RotationCurve_8-eps-converted-to.pdf used on input lin
-e 420.
+e 424.
 (pdftex.def)             Requested size: 108.405pt x 90.28555pt.
  (conference_article.bbl [5])
 
@@ -863,10 +862,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5659 strings out of 495222
- 85822 string characters out of 3181578
- 155866 words of memory out of 3000000
- 8806 multiletter control sequences out of 15000+200000
+ 5661 strings out of 495222
+ 85854 string characters out of 3181578
+ 155930 words of memory out of 3000000
+ 8808 multiletter control sequences out of 15000+200000
  61996 words of font info for 144 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  39i,19n,49p,2349b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -897,7 +896,7 @@ e/texmfs/install/fonts/type1/urw/times/utmb8a.pfb><D:/Latex_Portable/texmfs/ins
 tall/fonts/type1/urw/times/utmbi8a.pfb><D:/Latex_Portable/texmfs/install/fonts/
 type1/urw/times/utmr8a.pfb><D:/Latex_Portable/texmfs/install/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on conference_article.pdf (6 pages, 479863 bytes).
+Output written on conference_article.pdf (6 pages, 479684 bytes).
 PDF statistics:
  266 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
