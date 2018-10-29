@@ -1,7 +1,7 @@
 \documentclass[10pt,conference]{IEEEtran}
 \IEEEoverridecommandlockouts
-\IEEEpubid{\makebox[\columnwidth]{978-1-5386-9242-4/18/\$31.00~\copyright2018
-IEEE\hfill}\hspace{\columnsep}\makebox[\columnwidth]{}} 
+%\IEEEpubid{\makebox[\columnwidth]{978-1-5386-9242-4/18/\$31.00~\copyright2018
+%IEEE\hfill}\hspace{\columnsep}\makebox[\columnwidth]{}} 
 % The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
 \usepackage{cite}
 \usepackage{amsmath,amssymb,amsfonts}
@@ -21,7 +21,39 @@ g}
 \usepackage{sistyle}    %SI unit style
 \usepackage{romannum}   %Roman numbering style
 \usepackage{gensymb}    %math symbol
+\usepackage{url}        %URL
+%====================================
 
+
+\makeatletter
+
+
+
+
+
+
+% title page
+\def\ps@IEEEtitlepagestyle{%
+\def\@oddhead{\parbox[t][\height][t]{\textwidth}{\raggedleft
+2018 21st International Conference of Computer and Information Technology (ICCIT),\\
+21-23 December, 2018\\
+\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}
+}\hfil\hbox{}}%
+
+\def\@oddfoot{978-1-5386-9242-4/18/\$31.00~\copyright2018
+IEEE \hfil 
+\leftmark\mbox{}}%
+}
+
+\makeatother
+% make changes take effect
+\pagestyle{headings}
+% adjust as needed
+\addtolength{\footskip}{0\baselineskip}
+\addtolength{\textheight}{0\baselineskip} 
+
+
+%====================================
 \begin{document}
 
 \title{SALSA is an ICT based educational tool for Astrophysics students to study structure and dynamics of Milky Way Galaxy\\
@@ -59,7 +91,7 @@ Neutral Hydrogen(HI) at the ground state level is an abundant and uniformly dist
 
 \subsection{Basic Details of SALSA}
 
-SALSA is a part of the European Hands-On Universe project(EU-HOU)\cite{Ferlet2006} designed to bring interactive lessons of astronomy to the classroom\cite{SALSAS2018}. There are two SALSA telescopes with the same specification see Table~\ref{Tab:salsa_specification}\cite{ThomasBensby2017}. Anyone can control these telescopes using Internet browser by log in https://vale.oso.chalmers.se/salsa/ for free at any time. 
+SALSA is a part of the European Hands-On Universe project(EU-HOU)\cite{Ferlet2006} designed to bring interactive lessons of astronomy to the classroom\cite{SALSAS2018}. There are two SALSA telescopes with the same specification see Table~\ref{Tab:salsa_specification}\cite{ThomasBensby2017}. Anyone can control these telescopes using Internet browser by log in \url{https://vale.oso.chalmers.se/salsa/} for free at any time. 
 
 
 \begin{table*}[htbp]
