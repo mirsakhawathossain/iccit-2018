@@ -1,4 +1,10 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: presentation_1.aux
-I found no \bibdata command---while reading file presentation_1.aux
-I found no \bibstyle command---while reading file presentation_1.aux
-(There were 2 error messages)
+The style file: IEEEtran.bst
+Database file #1: mybibfile.bib
+Warning--I didn't find a database entry for "p1"
+-- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+(There was 1 warning)
