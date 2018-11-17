@@ -21,6 +21,24 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{Ferlet2006}
+R.~Ferlet and C.~R. Pennypacker, ``The hands-on universe project,'' in
+  \emph{Organizations and Strategies in Astronomy Volume 6}.\hskip 1em plus
+  0.5em minus 0.4em\relax Springer Netherlands, 2006, pp. 275--286.
+
+\bibitem{SALSAS2018}
+\BIBentryALTinterwordspacing
+O.~S. Observatory, ``Welcome to salsa,'' Website, May 2018. [Online].
+  Available: \url{https://vale.oso.chalmers.se/salsa/welcome}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ThomasBensby2017}
+\BIBentryALTinterwordspacing
+G.~K. Thomas~Bensby, \emph{ASTA33 Lab: The rotation curve of the Milky Way},
+  Lund Observatory, Dec. 2017. [Online]. Available:
+  \url{http://www.astro.lu.se/Education/utb/ASTA33/}
+\BIBentrySTDinterwordspacing
+
 \bibitem{CJBakker1945}
 H.~C. v. d.~H. C~J~Bakker, \emph{Radiogolven uit het wereldruim}.\hskip 1em
   plus 0.5em minus 0.4em\relax s-Gravenhage : Martinus Nijhoff, 1945.

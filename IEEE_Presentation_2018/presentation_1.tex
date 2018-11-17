@@ -79,6 +79,12 @@
 \usepackage{graphicx} % Allows including images
 \usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
 \usepackage{cite}     % Citation package
+\usepackage{amsmath,amssymb,amsfonts} %AMS Math package
+\usepackage{algorithmic}
+\usepackage{sistyle}    %SI unit style
+\usepackage{romannum}   %Roman numbering style
+\usepackage{gensymb}    %math symbol
+\usepackage{url}        %URL
 
 %----------------------------------------------------------------------------------------
 %	TITLE PAGE
@@ -92,7 +98,7 @@
 Kabi Nazrul Govt. College,Dhaka \\ % Your institution for the title page
 \medskip
 \textit{s.hossain18@gmail.com} \\ % Your email address
-\textit{https://gitlab.com/sakhawat18/iccit-2018} %Gitlab Link
+\textit{\url{https://gitlab.com/sakhawat18/iccit-2018}} %Gitlab Link
 }
 \date{\today} % Date, can be changed to a custom date
 
@@ -112,19 +118,75 @@ Kabi Nazrul Govt. College,Dhaka \\ % Your institution for the title page
 %----------------------------------------------------------------------------------------
 
 %------------------------------------------------
-\section{First Section} % Sections can be created in order to organize your presentation into discrete blocks, all sections and subsections are automatically printed in the table of contents as an overview of the talk
+\section{Primary Discussion} % Sections can be created in order to organize your presentation into discrete blocks, all sections and subsections are automatically printed in the table of contents as an overview of the talk
 %------------------------------------------------
 
-\subsection{Subsection Example} % A subsection can be created just before a set of slides with a common theme to further break down your presentation into chunks
+\subsection{SALSA} % A subsection can be created just before a set of slides with a common theme to further break down your presentation into chunks
 
 \begin{frame}
-\frametitle{Paragraphs of Text}
-Sed iaculis dapibus gravida. Morbi sed tortor erat, nec interdum arcu. Sed id lorem lectus. Quisque viverra augue id sem ornare non aliquam nibh tristique. Aenean in ligula nisl. Nulla sed tellus ipsum. Donec vestibulum ligula non lorem vulputate fermentum accumsan neque mollis\cite{CJBakker1945}.\\~\\
-
-Sed diam enim, sagittis nec condimentum sit amet, ullamcorper sit amet libero. Aliquam vel dui orci, a porta odio. Nullam id suscipit ipsum. Aenean lobortis commodo sem, ut commodo leo gravida vitae. Pellentesque vehicula ante iaculis arcu pretium rutrum eget sit amet purus. Integer ornare nulla quis neque ultrices lobortis. Vestibulum ultrices tincidunt libero, quis commodo erat ullamcorper id.
+\frametitle{Introduction}
+ICT based astronomy and astrophysics tools have been developed for decades for undergraduate level use including radio telescopes controllable over the Internet at minimal cost. These radio telescopes can effectively be used to study galactic structure and dynamics. This paper presents an observation to study galaxy dynamics and map its spiral structure which was carried out between galactic coordinate longitudes $6\degree$ to $225\degree$ and latitudes $0\degree$ to $35\degree$ with two low cost $2.3$ meters Haystack model type radio frequency receiving systems called SALSA radio telescopes at Onsala Space Observatory in Sweden which is maintained by Chalmers University of Technology.
 \end{frame}
 %------------------------------------------------
 
+\begin{frame}
+\frametitle{Basic Details of SALSA}
+SALSA is a part of the European Hands-On Universe project(EU-HOU)\cite{Ferlet2006} designed to bring interactive lessons of astronomy to the classroom\cite{SALSAS2018}. There are two SALSA telescopes with the same specification see Table~\ref{Tab:salsa_specification}\cite{ThomasBensby2017}.\\~\\ 
+Anyone can control these telescopes using Internet browser by log in \url{https://vale.oso.chalmers.se/salsa/} for free at any time.
+\end{frame}
+%------------------------------------------------
+%------------------------------------------------
+
+\begin{frame}
+\frametitle{SALSA}
+\begin{table}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Parameter}&\multicolumn{1}{|c|}{\textbf{Value}} \\
+\cline{1-2} 
+\hline
+Diameter & 2.3 m\\
+\hline
+Focal length & 0.9 m (f/0.37)\\
+\hline
+Angular resolution & 7 degree at 1420 MHz\\
+\hline
+Frequency range & 1420 $\pm$ 20 MHz\\
+\hline
+Frequency resolution & 9.375 kHz (2.4 MHz over 256 frequency channels )\\
+\hline
+Noise diode temperature & $\approx$ 100K\\
+\hline
+System temperature & $\approx$ 500K\\
+\hline
+Aperture efficiency & $\approx$ 50$\%$\\
+\hline
+Mount & two-axis azimuth/elevation\\
+\hline
+Pointing accuracy & $\approx$ 0.2 degree\\
+\hline
+Travel limits &  0-90$\degree$ vertically, 0-360$\degree$ horizontally\\
+\hline
+\end{tabular}
+\label{Tab:salsa_specification}
+\caption{Specification of SALSA}
+\end{table}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Components of SALSA}
+\begin{itemize}
+\item A 2.3 meter satellite dish on a fully steerable, motorized azimuth-elevation mount
+\item A rotor controller to run the motors which steer the telescope
+\item A feed composed of a helical antenna backed by a cavity
+\item A super-heterodyne receiver providing 10 MHz bandwidth centered on the 1420.4 MHz (21-cm) hydrogen line
+\item A low-noise amplifier
+\item A/D conversion on a dedicated PCI card
+\item Software on a desktop computer to receive and process data from the telescope and control it
+\end{itemize}
+\end{frame}
+
+%------------------------------------------------
 \begin{frame}
 \frametitle{Paragraphs of Text}
 Sed iaculis dapibus gravida. Morbi sed tortor erat, nec interdum arcu. Sed id lorem lectus. Quisque viverra augue id sem ornare non aliquam nibh tristique. Aenean in ligula nisl. Nulla sed tellus ipsum. Donec vestibulum ligula non lorem vulputate fermentum accumsan neque mollis\cite{CJBakker1945}.\\~\\

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730) (preloaded format=pdflatex 2018.10.30)  12 NOV 2018 13:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730) (preloaded format=pdflatex 2018.10.30)  17 NOV 2018 13:22
 entering extended mode
 **./presentation_1.tex
 (presentation_1.tex
@@ -716,23 +716,50 @@ LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
+(D:\Latex_Portable_Updated\texmfs\install\tex\latex\algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(D:\Latex_Portable_Updated\texmfs\install\tex\latex\base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count159
+\c@ALC@line=\count160
+\c@ALC@rem=\count161
+\c@ALC@depth=\count162
+\ALC@tlm=\skip57
+\algorithmicindent=\skip58
+)
+(D:\Latex_Portable_Updated\texmfs\install\tex\latex\SIstyle\sistyle.sty
+Package: sistyle 2008/07/16 v2.3a SI units and numbers (DNJ Els)
+\ttoks@A=\toks43
+\ttoks@B=\toks44
+)
+(D:\Latex_Portable_Updated\texmfs\install\tex\latex\romannum\romannum.sty
+Package: romannum 2009/09/03 v1.0b roman numerals
+
+(D:\Latex_Portable_Updated\texmfs\install\tex\latex\stdclsdv\stdclsdv.sty
+Package: stdclsdv 2009/09/04 v1.1a Sectional divisions
+))
+(D:\Latex_Portable_Updated\texmfs\install\tex\latex\was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
 (presentation_1.aux)
 \openout1 = `presentation_1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -770,17 +797,17 @@ LaTeX Font Info:    ... okay on input line 99.
 
 (D:\Latex_Portable_Updated\texmfs\install\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count159
+\scratchcounter=\count163
 \scratchdimen=\dimen256
 \scratchbox=\box53
-\nofMPsegments=\count160
-\nofMParguments=\count161
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count162
+\nofMPsegments=\count164
+\nofMParguments=\count165
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count166
 \MPscratchDim=\dimen257
-\MPnumerator=\count163
-\makeMPintoPDFobject=\count164
-\everyMPtoPDFconversion=\toks44
+\MPnumerator=\count167
+\makeMPintoPDFobject=\count168
+\everyMPtoPDFconversion=\toks46
 )
 (D:\Latex_Portable_Updated\texmfs\install\tex\latex\oberdiek\epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -797,7 +824,7 @@ G,.JBIG2,.JB2,.eps]
 )
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 99.
+Package hyperref Info: Link coloring OFF on input line 105.
 
 (D:\Latex_Portable_Updated\texmfs\install\tex\latex\hyperref\nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -806,67 +833,67 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count165
+\c@section@level=\count169
 )
-LaTeX Info: Redefining \ref on input line 99.
-LaTeX Info: Redefining \pageref on input line 99.
-LaTeX Info: Redefining \nameref on input line 99.
+LaTeX Info: Redefining \ref on input line 105.
+LaTeX Info: Redefining \pageref on input line 105.
+LaTeX Info: Redefining \nameref on input line 105.
  (presentation_1.out) (presentation_1.out)
 \@outlinefile=\write5
 \openout5 = `presentation_1.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 99.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 105.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 99.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 105.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 99.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 105.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 99.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 99.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 99.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 105.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 99.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 99.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 99.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 105.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 99.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 99.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 99.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 105.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 99.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 99.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 105.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 99.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 105.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 99.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 99.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 99.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 99.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 99.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 105.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 99.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 99.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 105.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 105.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 9
-9.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
+05.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-99.
+105.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 99.
+ut line 105.
 
 (D:\Latex_Portable_Updated\texmfs\install\tex\latex\translator\translator-basic
 -dictionary-English.dict
@@ -891,7 +918,38 @@ Dictionary: translator-numbers-dictionary, Language: English
 (D:\Latex_Portable_Updated\texmfs\install\tex\latex\translator\translator-theor
 em-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (presentation_1.nav) [1
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 105.
+
+(D:\Latex_Portable_Updated\texmfs\install\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 105.
+
+(D:\Latex_Portable_Updated\texmfs\install\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 105.
+
+(D:\Latex_Portable_Updated\texmfs\install\tex\latex\sansmathaccent\ot1mathkernc
+mss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+LaTeX Info: Redefining \celsius on input line 105.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 105
+.
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 105.
+Package gensymb Info: Using \Omega for \ohm on input line 105.
+
+Package gensymb Warning: Not defining \micro.
+
+(presentation_1.nav) [1
 
 {D:/Latex_Portable_Updated/texmfs/data/pdftex/config/pdftex.map}] (presentation
 _1.toc) [2
@@ -900,51 +958,44 @@ _1.toc) [2
 
 ] [4
 
-] [5
-
 ]
-[6
+Overfull \hbox (28.729pt too wide) in paragraph at lines 174--174
+ [] 
+ []
 
-]
-LaTeX Font Info:    Try loading font information for U+msa on input line 182.
- (D:\Latex_Portable_Updated\texmfs\install\tex\latex\amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 182.
+[5
 
-(D:\Latex_Portable_Updated\texmfs\install\tex\latex\amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 182.
+] [6
 
-(D:\Latex_Portable_Updated\texmfs\install\tex\latex\sansmathaccent\ot1mathkernc
-mss.fd
-File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-) [7
+] [7
 
 ] [8
 
 ] [9
 
-]
-\openout4 = `presentation_1.vrb'.
-
- (presentation_1.vrb) [10
+] [10
 
 ] [11
 
+] [12
+
 ]
 \openout4 = `presentation_1.vrb'.
 
- (presentation_1.vrb)
-[12
+ (presentation_1.vrb) [13
 
-] (presentation_1.bbl) [13
+] [14
+
+]
+\openout4 = `presentation_1.vrb'.
+
+
+(presentation_1.vrb) [15
+
+] (presentation_1.bbl) [16
 
  <D:/Latex_Portable_Updated/texmfs/install/tex/latex/beamer/beamericonarticle.p
-df>] [14
+df>] [17
 
 ]
 \tf@nav=\write6
@@ -956,36 +1007,40 @@ df>] [14
 \tf@snm=\write8
 \openout8 = `presentation_1.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 332.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 332.
  (presentation_1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 270.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 270.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 332.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 332.
 Package rerunfilecheck Info: File `presentation_1.out' has not changed.
-(rerunfilecheck)             Checksum: 157B875EBF9FF915E7658288F766A620;167.
+(rerunfilecheck)             Checksum: C9B5C914D15369B6830B856FBBD6AA2E;159.
  ) 
 Here is how much of TeX's memory you used:
- 17360 strings out of 494872
- 336274 string characters out of 3177887
- 403957 words of memory out of 3000000
- 20544 multiletter control sequences out of 15000+200000
- 13140 words of font info for 47 fonts, out of 3000000 for 9000
+ 17795 strings out of 494872
+ 341963 string characters out of 3177887
+ 411532 words of memory out of 3000000
+ 20937 multiletter control sequences out of 15000+200000
+ 16966 words of font info for 63 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  56i,15n,69p,783b,812s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/Latex_Portable_Updated/texmfs/install/fonts/type1/public/amsfonts/cm/cmss
-10.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/type1/public/amsfonts/cm
-/cmss12.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/type1/public/amsfon
-ts/cm/cmss17.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/type1/public/a
-msfonts/cm/cmss8.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/type1/publ
-ic/amsfonts/cm/cmss9.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/type1/
-public/amsfonts/cm/cmssbx10.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts
-/type1/public/amsfonts/cm/cmssi10.pfb><D:/Latex_Portable_Updated/texmfs/install
-/fonts/type1/public/amsfonts/cm/cmssi8.pfb><D:/Latex_Portable_Updated/texmfs/in
-stall/fonts/type1/public/amsfonts/cm/cmssi9.pfb><D:/Latex_Portable_Updated/texm
-fs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on presentation_1.pdf (14 pages, 211284 bytes).
+<D:/Latex_Portable_Updated/texmfs/install/fonts/type1/public/amsfonts/cm/cmit
+t10.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/type1/public/amsfo
+nts/cm/cmss10.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/type1/public/
+amsfonts/cm/cmss12.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/type1/pu
+blic/amsfonts/cm/cmss17.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts/typ
+e1/public/amsfonts/cm/cmss8.pfb><D:/Latex_Portable_Updated/texmfs/install/fonts
+/type1/public/amsfonts/cm/cmss9.pfb><D:/Latex_Portable_Updated/texmfs/install/f
+onts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/Latex_Portable_Updated/texmfs/in
+stall/fonts/type1/public/amsfonts/cm/cmssi10.pfb><D:/Latex_Portable_Updated/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmssi8.pfb><D:/Latex_Portable_Update
+d/texmfs/install/fonts/type1/public/amsfonts/cm/cmssi9.pfb><D:/Latex_Portable_U
+pdated/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Latex_Porta
+ble_Updated/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/Latex_P
+ortable_Updated/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on presentation_1.pdf (17 pages, 267023 bytes).
 PDF statistics:
- 472 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
+ 581 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
  109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
