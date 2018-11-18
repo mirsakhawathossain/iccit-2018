@@ -1,3 +1,4 @@
 \beamer@sectionintoc {1}{Primary Discussion}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{SALSA}{3}{0}{1}
-\beamer@sectionintoc {2}{Second Section}{11}{0}{2}
+\beamer@subsectionintoc {1}{2}{HI Surveys}{9}{0}{1}
+\beamer@sectionintoc {2}{Second Section}{13}{0}{2}
