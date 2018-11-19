@@ -6,7 +6,7 @@ image: blang/latex
 
 build:
   script:
-    - latexmk -pdf presentation_1.tex
+    - latexmk -pdf  IEEE_Presentation_2018/presentation_1.tex
   artifacts:
     paths:
       - "Output/*.pdf"
