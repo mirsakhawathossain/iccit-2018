@@ -18,4 +18,4 @@ deploy:
     - latexmk -pdf presentation_1.tex
   artifacts:
      paths:
-       - "IEEE_Presentation_2018/*.pdf"
+       - public
