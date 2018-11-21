@@ -10,12 +10,12 @@ build:
     - latexmk -pdf presentation_1.tex
   artifacts:
     paths:
-      - "IEEE_Presentation_2018/*.pdf"
-deploy:
-  stage: deploy
-  script:
-    - cd IEEE_Presentation_2018
-    - latexmk -pdf presentation_1.tex
-  artifacts:
-     paths:
-       - public
+      - public
+# deploy:
+  # stage: deploy
+  # script:
+    # - cd IEEE_Presentation_2018
+    # - latexmk -pdf presentation_1.tex
+  # artifacts:
+     # paths:
+       # - "IEEE_Presentation_2018/*.pdf"
