@@ -1,0 +1,21 @@
+# This file is a template, and might need editing before it works on your project.
+# use docker image with latex preinstalled
+# since there is no official latex image, use https://github.com/blang/latex-docker
+# possible alternative: https://github.com/natlownes/docker-latex
+image: aergus/latex
+
+build:
+  script:
+    - cd IEEE_Presentation_2018
+    - latexmk -pdf presentation_1.tex
+  artifacts:
+    paths:
+      - "IEEE_Presentation_2018/*.pdf"
+deploy:
+  stage: deploy
+  script:
+    - cd IEEE_Presentation_2018
+    - latexmk -pdf presentation_1.tex
+  artifacts:
+     paths:
+       - "IEEE_Presentation_2018/*.pdf"
