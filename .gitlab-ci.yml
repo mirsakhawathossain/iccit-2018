@@ -8,9 +8,11 @@ build:
   script:
     - cd IEEE_Presentation_2018
     - latexmk -pdf presentation_1.tex
+    - git add presentation_1.pdf
+    - git push
   artifacts:
     paths:
-      - public
+      - "IEEE_Presentation_2018/*.pdf"
 # deploy:
   # stage: deploy
   # script:
