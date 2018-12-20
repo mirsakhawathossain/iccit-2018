@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880) (preloaded format=pdflatex 2018.12.6)  18 DEC 2018 12:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880) (preloaded format=pdflatex 2018.12.6)  20 DEC 2018 19:01
 entering extended mode
 **./presentation_1.tex
 (presentation_1.tex
@@ -1066,10 +1066,10 @@ Package rerunfilecheck Info: File `presentation_1.out' has not changed.
 (rerunfilecheck)             Checksum: 12267CA58206B5B9EA2C22363ED5F5CC;424.
  ) 
 Here is how much of TeX's memory you used:
- 17861 strings out of 492969
- 342218 string characters out of 3130150
- 416780 words of memory out of 3000000
- 21233 multiletter control sequences out of 15000+200000
+ 17859 strings out of 492969
+ 342183 string characters out of 3130150
+ 416812 words of memory out of 3000000
+ 21231 multiletter control sequences out of 15000+200000
  20860 words of font info for 77 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,62p,783b,800s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1091,7 +1091,7 @@ Portable_Updated/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/La
 tex_Portable_Updated/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D
 :/Latex_Portable_Updated/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.p
 fb>
-Output written on presentation_1.pdf (21 pages, 1896469 bytes).
+Output written on presentation_1.pdf (21 pages, 1896465 bytes).
 PDF statistics:
  806 PDF objects out of 1000 (max. 8388607)
  58 named destinations out of 1000 (max. 500000)
